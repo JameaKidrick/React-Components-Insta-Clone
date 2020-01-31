@@ -54,3 +54,11 @@
   margin: 15px 0px;
   font-size: 16px;
 }
+
+.fa-heart { /* ADDED POINTER */
+  cursor: pointer;
+}
+.fa-heart:hover { /* ADDED HOVER */
+  color: red;
+  font-weight: bold;
+}
